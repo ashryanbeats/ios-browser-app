@@ -63,7 +63,7 @@
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina55"/>
                     <connections>
-                        <outlet property="indicator" destination="E1P-rh-Suk" id="ocu-v2-0Sm"/>
+                        <outlet property="indicator" destination="jzj-hp-0JW" id="ggo-Wi-Tb4"/>
                         <outlet property="searchBar" destination="oS6-9g-lld" id="7bz-zN-JNl"/>
                         <outlet property="webView" destination="b9G-mP-565" id="o1y-Jz-HAI"/>
                     </connections>

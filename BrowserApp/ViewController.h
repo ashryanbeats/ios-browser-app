@@ -17,7 +17,7 @@
 
 @property (weak, nonatomic) IBOutlet UISearchBar *searchBar;
 @property (weak, nonatomic) IBOutlet UIWebView *webView;
-@property (weak, nonatomic) IBOutlet UIToolbar *indicator;
+@property (weak, nonatomic) IBOutlet UIActivityIndicatorView *indicator;
 
 
 @end
